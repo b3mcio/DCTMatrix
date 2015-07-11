@@ -1,0 +1,20 @@
+Macierz bazy przekszta³cona na wygodn¹ reprezentacjê: N = 16
+litera ma³a - wspó³czynnik dodatni, litera du¿a - wspó³czynnik ujemny
+
+| a  a  a  a  a  a  a  a | a  a  a  a  a  a  a  a |
+| b  d  f  h  j  l  n  p | P  N  L  J  H  F  D  B |
+| c  g  k  o  O  K  G  C | C  G  K  O  o  k  g  c |
+| d  j  p  L  F  B  H  N | n  h  b  f  l  P  J  D |
+| e  m  M  E  E  M  m  e | e  m  M  E  E  M  m  e |
+| f  p  H  D  N  j  b  l | L  B  J  n  d  h  P  F |
+| g  O  C  K  k  c  o  G | G  o  c  k  K  C  O  g |
+| h  L  D  p  b  n  F  J | j  f  N  B  P  d  l  H |
+|-------------------------------------------------|
+| a  A  A  a  a  A  A  a | a  A  A  a  a  A  A  a |
+| j  F  N  b  P  D  l  h | H  L  d  p  B  n  f  J |
+| k  C  o  g  G  O  c  K | K  c  O  G  g  o  C  k |
+| l  B  j  n  D  h  p  F | f  P  H  d  N  J  b  L |
+| m  E  e  M  M  e  E  m | m  E  e  M  M  e  E  m |
+| n  H  b  F  l  p  J  d | D  j  P  L  f  B  h  N |
+| o  K  g  C  c  G  k  O | O  k  G  c  C  g  K  o |
+| p  N  l  J  h  F  d  B | b  D  f  H  j  L  n  P |

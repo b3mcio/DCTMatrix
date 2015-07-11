@@ -1,0 +1,21 @@
+﻿Build started 2015-07-09 19:39:49.
+     1>Project "C:\Users\B3mcio\Documents\Visual Studio 2013\Projects\Macierz DCT\Macierz DCT\Macierz DCT.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt main.c
+         main.c
+     1>c:\users\b3mcio\documents\visual studio 2013\projects\macierz dct\macierz dct\main.c(44): warning C4047: "funkcja" : "float (*)[16]" różni się w poziomach operatorów pośrednich od "char [13]"
+     1>c:\users\b3mcio\documents\visual studio 2013\projects\macierz dct\macierz dct\main.c(44): warning C4024: "saveMatrixToFile" : różne typy dla formalnego i rzeczywistego parametru 1
+     1>c:\users\b3mcio\documents\visual studio 2013\projects\macierz dct\macierz dct\main.c(44): warning C4047: "funkcja" : "int" różni się w poziomach operatorów pośrednich od "char [16][16]"
+     1>c:\users\b3mcio\documents\visual studio 2013\projects\macierz dct\macierz dct\main.c(44): warning C4024: "saveMatrixToFile" : różne typy dla formalnego i rzeczywistego parametru 2
+     1>c:\users\b3mcio\documents\visual studio 2013\projects\macierz dct\macierz dct\main.c(44): warning C4020: "saveMatrixToFile": zbyt wiele parametrów rzeczywistych
+     1>c:\users\b3mcio\documents\visual studio 2013\projects\macierz dct\macierz dct\main.c(57): warning C4047: "funkcja" : "swap *" różni się w poziomach operatorów pośrednich od "swap (*)[32]"
+     1>c:\users\b3mcio\documents\visual studio 2013\projects\macierz dct\macierz dct\main.c(57): warning C4024: "spareMatrixRows" : różne typy dla formalnego i rzeczywistego parametru 1
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\B3mcio\Documents\Visual Studio 2013\Projects\Macierz DCT\Debug\Macierz DCT.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\B3mcio\Documents\Visual Studio 2013\Projects\Macierz DCT\Debug\Macierz DCT.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\B3mcio\Documents\Visual Studio 2013\Projects\Macierz DCT\Debug\Macierz DCT.lib" /MACHINE:X86 Debug\dct.obj
+         Debug\main.obj
+         Macierz DCT.vcxproj -> C:\Users\B3mcio\Documents\Visual Studio 2013\Projects\Macierz DCT\Debug\Macierz DCT.exe
+     1>Done Building Project "C:\Users\B3mcio\Documents\Visual Studio 2013\Projects\Macierz DCT\Macierz DCT\Macierz DCT.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.39
